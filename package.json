@@ -1,0 +1,26 @@
+{
+  "name": "locatel",
+  "version": "1.0.0",
+  "description": "Front-End app",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmarulandc/Front-End-Locatel.git"
+  },
+  "keywords": [
+    "Front-end",
+    "React"
+  ],
+  "author": "Mateo Marulanda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmarulandc/Front-End-Locatel/issues"
+  },
+  "homepage": "https://github.com/mmarulandc/Front-End-Locatel#readme",
+  "dependencies": {
+    "create-react-app": "^3.0.1"
+  }
+}
