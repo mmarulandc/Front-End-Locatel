@@ -8,7 +8,7 @@ class NavBar extends React.Component {
                 <nav className="light-blue darken-4">
                     <div className="container">
                         <div className="nav-wrapper">
-                            <a href="/" className="brand-logo">Nombre por decidir</a>
+                            <a href="/" className="brand-logo">PLENIAL LOCATEL</a>
                         </div>
                     </div>
                 </nav>
